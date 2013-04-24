@@ -1,0 +1,6 @@
+.idea
+/assets/
+/photo/
+/sql/
+protected/runtime/*
+protected/config/production.php
